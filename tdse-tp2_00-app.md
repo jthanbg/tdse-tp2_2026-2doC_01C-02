@@ -40,3 +40,6 @@ El uso de la macro LOGGER\_INFO() dentro del código de una tarea tiene un impac
 
 ---
 
+<img width="699" height="597" alt="image" src="https://github.com/user-attachments/assets/4eb48044-3011-41a2-9abc-6bdcf37a6fd4" />
+
+Las unidades de tiempo de las variables están en microsegundos (uS)
